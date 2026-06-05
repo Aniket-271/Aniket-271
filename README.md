@@ -14,7 +14,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niket-verma-4b45782b6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketverma2603@gmail.com) 
-## 🐍 Contribution Snake
+
 
 ## 🐍 Contribution Snake
 
