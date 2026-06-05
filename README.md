@@ -1,3 +1,16 @@
+# 💫 About Me:
+
+🔭 I’m currently working on **AI Video Generator & Web Development Projects**
+
+🌱 I’m currently learning **React.js, Spring Boot, REST APIs, and Full Stack Development**
+
+📫 How to reach me: **your-email@gmail.com**
+
+📄 Know about my experiences:
+[Resume](https://drive.google.com/your-resume-link)
+
+⚡ Fun fact: I love building AI-powered applications and exploring new technologies.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niket-verma-4b45782b6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketverma2603@gmail.com) 
